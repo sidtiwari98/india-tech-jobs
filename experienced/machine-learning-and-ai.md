@@ -5,7 +5,7 @@ Roles that ask for 3 or more years, or are Mid, Senior or Staff level.
 - Every role comes from the company's own career page. ASAI checks these pages every hour (a few large career sites take up to 5 hours a round).
 - Every role here was seen open in the last 48 hours and was posted or reopened in the last 14 days. New roles come first, then reopened ones.
 - At most 5 roles per company in each section; the rest are counted below it.
-- Generated 2026-11-26 13:42 UTC (2026-11-26 19:12 IST). Roles that close are removed at each run.
+- Generated 2026-11-26 13:47 UTC (2026-11-26 19:17 IST). Roles that close are removed at each run.
 - Years asked is shown only when the post states it. Pay is not shown.
 - Want this list matched to your own resume? Upload it at [asaitech.in](https://www.asaitech.in/?utm_source=github&utm_medium=list&utm_campaign=experienced).
 
@@ -173,7 +173,6 @@ Roles that ask for 3 or more years, or are Mid, Senior or Staff level.
 | IQVIA | Director, AI Enablement & Innovation | Kochi | 12+ | 2026-11-23 | [Apply](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kochi-India/Director--AI-Enablement---Innovation_R1563750-1) | [Fit and details](https://www.asaitech.in/jobs/773bc27b9e821003d8b773c2e0710000/director-ai-enablement-innovation?utm_source=github&utm_medium=list&utm_campaign=experienced) |
 | Linde | Software Engineer - AI Hub | Bengaluru |  | 2026-11-23 | [Apply](https://linde.csod.com/ux/ats/careersite/25/home/requisition/33782?c=linde) | [Fit and details](https://www.asaitech.in/jobs/linde_33782/software-engineer-ai-hub?utm_source=github&utm_medium=list&utm_campaign=experienced) |
 | MSD | Platform AI Engineer – Market & Patient Access | Hyderabad | 3+ | 2026-11-23 | [Apply](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Platform-AI-Engineer---Market---Patient-Access_R423892) | [Fit and details](https://www.asaitech.in/jobs/10f524a43ea31000aab6ece5cbd00000/platform-ai-engineer-market-patient-access?utm_source=github&utm_medium=list&utm_campaign=experienced) |
-| Optum | Lead AI/ML Engineer | Gurgaon | 12+ | 2026-11-23 | [Apply](https://careers.unitedhealthgroup.com/job/gurgaon/lead-ai-ml-engineer/34088/98078151792) | [Fit and details](https://www.asaitech.in/jobs/optum_98078151792/lead-ai-ml-engineer?utm_source=github&utm_medium=list&utm_campaign=experienced) |
 | PayPal | Sr Machine Learning Engineer, Fraud (Crypto & Debit Card) | Bengaluru | 3+ | 2026-11-23 | [Apply](https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/Bangalore-Karnataka-India/Sr-Machine-Learning-Engineer--Fraud--Crypto---Debit-Card-_R0139150) | [Fit and details](https://www.asaitech.in/jobs/b8dda9b574db1000a53252e5a7660000/sr-machine-learning-engineer-fraud-crypto-debit-card?utm_source=github&utm_medium=list&utm_campaign=experienced) |
 | Pfizer | Analyst – AI Enablement & Projects | Mumbai | 3+ | 2026-11-23 | [Apply](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/India---Mumbai/Analyst---AI-Enablement---Projects_4968209-1) | [Fit and details](https://www.asaitech.in/jobs/23983fafc1db1000936070dad0f30000/analyst-ai-enablement-projects?utm_source=github&utm_medium=list&utm_campaign=experienced) |
 | Procter & Gamble | Senior AI Engineer | India | 5+ | 2026-11-23 | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/HYDERABAD-OFFICE-INDIA-PSC-PGH/Senior-AI-Engineer_R000161877) | [Fit and details](https://www.asaitech.in/jobs/d964d33d56751005a6dcfd346be20000/senior-ai-engineer?utm_source=github&utm_medium=list&utm_campaign=experienced) |
@@ -356,6 +355,7 @@ Roles that ask for 3 or more years, or are Mid, Senior or Staff level.
 | AXA Global Business Services | Associate Consultant | India | 3+ | 2026-11-13 | [Apply](https://axagbscareers.peoplestrong.com/job/detail/AXAGBS14930) | [Fit and details](https://www.asaitech.in/jobs/axagbscareers_AXAGBS14930/associate-consultant?utm_source=github&utm_medium=list&utm_campaign=experienced) |
 | BMW TechWorks India | Lead Agentic Engineering & AI Platform Engineer (AIRE) | India |  | 2026-11-13 | [Apply](https://careers-bmwtechworks.peoplestrong.com/job/detail/BTWI_LAE-APE_1920571) | [Fit and details](https://www.asaitech.in/jobs/careers-bmwtechworks_BTWI_LAE-APE_1920571/lead-agentic-engineering-ai-platform-engineer-aire?utm_source=github&utm_medium=list&utm_campaign=experienced) |
 | BMW TechWorks India | Senior Quality & AI Evaluation Engineer (AIRE) | India |  | 2026-11-13 | [Apply](https://careers-bmwtechworks.peoplestrong.com/job/detail/BTWI_SQ-AEE_1922027) | [Fit and details](https://www.asaitech.in/jobs/careers-bmwtechworks_BTWI_SQ-AEE_1922027/senior-quality-ai-evaluation-engineer-aire?utm_source=github&utm_medium=list&utm_campaign=experienced) |
+| Optum | AI ML Engineer | Noida | 8+ | 2026-11-12 (reopened 2026-11-26) | [Apply](https://careers.unitedhealthgroup.com/job/noida/ai-ml-engineer/34088/103229769312) | [Fit and details](https://www.asaitech.in/jobs/optum_103229769312/ai-ml-engineer?utm_source=github&utm_medium=list&utm_campaign=experienced) |
 | Microsoft | Data & AI Consultant | Bengaluru | 10+ | 2026-11-13 (reopened 2026-11-26) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557070379) | [Fit and details](https://www.asaitech.in/jobs/1970393557070379/data-ai-consultant?utm_source=github&utm_medium=list&utm_campaign=experienced) |
 | TransUnion | Lead AI Platform Engineer (Python, Cloud & GenAI) | Hyderabad | 7+ | 2026-10-19 (reopened 2026-11-26) | [Apply](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Hyderabad/Lead-AI-Platform-Engineer--Python--Cloud---GenAI-_19042808) | [Fit and details](https://www.asaitech.in/jobs/c024df89dc0f100187399dbd2de50000/lead-ai-platform-engineer-python-cloud-genai?utm_source=github&utm_medium=list&utm_campaign=experienced) |
 | Thomson Reuters | Senior AI Platform Engineer | India |  | 2026-10-13 (reopened 2026-11-26) | [Apply](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Bengaluru-Karnataka/Senior-AI-Platform-Engineer_JREQ202440) | [Fit and details](https://www.asaitech.in/jobs/8952561de6bd1000eac1d553f5700000/senior-ai-platform-engineer?utm_source=github&utm_medium=list&utm_campaign=experienced) |
@@ -577,7 +577,7 @@ Roles that ask for 3 or more years, or are Mid, Senior or Staff level.
 - and 47 more at Deloitte
 - and 16 more at NTT DATA, Inc.
 - and 8 more at Iris Software
-- and 6 more at Optum
+- and 7 more at Optum
 - and 6 more at PwC
 - and 4 more at Bosch
 - and 4 more at JPMorgan Chase
