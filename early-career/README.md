@@ -5,7 +5,7 @@ Internships, entry level roles, and roles that ask for 0 to 2 years.
 - Every role comes from the company's own career page. ASAI checks these pages every hour (a few large career sites take up to 5 hours a round).
 - Every role here was seen open in the last 48 hours and was posted or reopened in the last 14 days. New roles come first, then reopened ones.
 - At most 5 roles per company in each section; the rest are counted below it.
-- Generated 2026-11-26 13:42 UTC (2026-11-26 19:12 IST). Roles that close are removed at each run.
+- Generated 2026-11-26 13:47 UTC (2026-11-26 19:17 IST). Roles that close are removed at each run.
 - Years asked is shown only when the post states it. Pay is not shown.
 - Want this list matched to your own resume? Upload it at [asaitech.in](https://www.asaitech.in/?utm_source=github&utm_medium=list&utm_campaign=early-career).
 
