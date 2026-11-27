@@ -7,7 +7,7 @@ The same roles as the role family pages, grouped here by city. Roles located in 
 - First posted is the date the role first went up. A role that closed and came back says reopened, with both dates.
 - At most 5 roles per company in each role family and list.
 - Click a role to read it on ASAI: what the post asks for, when it first went up, how often it came back, and who to ask for a referral there. **Apply** goes straight to the company.
-- Generated 2026-11-27 06:35 UTC (2026-11-27 12:05 IST). Roles that close are removed at each run.
+- Generated 2026-11-27 10:07 UTC (2026-11-27 15:37 IST). Roles that close are removed at each run.
 - Years asked is shown only when the post states it. Pay is not shown.
 - Want this list matched to your own resume? Upload it at [asaitech.in](https://www.asaitech.in/?utm_source=github&utm_medium=list&utm_campaign=by-city).
 
@@ -36,7 +36,6 @@ The same roles as the role family pages, grouped here by city. Roles located in 
 | --- | --- | --- | --- | --- | --- |
 | [AgileEngine](https://www.asaitech.in/companies/agileengine-jobs?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Lead Full Stack Engineer ID86301](https://www.asaitech.in/jobs/248544000265927938/lead-full-stack-engineer-id86301?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Apply](https://agileengine.zohorecruit.com/jobs/Careers/248544000265927938) | Thiruvananthapuram | 6+ | 2026-11-23 |
 | [UST](https://www.asaitech.in/companies/ust-jobs?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Lead Python Fullstack Developer](https://www.asaitech.in/jobs/usource_68572/lead-python-fullstack-developer?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Apply](https://usource.ripplehire.com/candidate/?token=xHQWoFn4C242POo7xMpH&source=CAREERSITE#detail/job/68572) | Thiruvananthapuram | 8+ | 2026-11-20 |
-| [UST](https://www.asaitech.in/companies/ust-jobs?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Associate III - Product Engineering- .net fullstack](https://www.asaitech.in/jobs/usource_68497/associate-iii-product-engineering-net-fullstack?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Apply](https://usource.ripplehire.com/candidate/?token=xHQWoFn4C242POo7xMpH&source=CAREERSITE#detail/job/68497) | Thiruvananthapuram | 5+ | 2026-11-19 |
 
 ### Mobile Engineering
 
@@ -69,6 +68,12 @@ The same roles as the role family pages, grouped here by city. Roles located in 
 
 ## 0 to 2 years
 
+### Full Stack Engineering
+
+| Company | Role | Apply | Location | Years asked | First posted |
+| --- | --- | --- | --- | --- | --- |
+| RM Education | [Dotnet FullStack Developer](https://www.asaitech.in/jobs/rm_3868/dotnet-fullstack-developer?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Apply](https://careers.rm.com/careers-home/jobs/3868) | Thiruvananthapuram | 2+ | 2026-11-27 |
+
 ### Mobile Engineering
 
 | Company | Role | Apply | Location | Years asked | First posted |
@@ -81,7 +86,6 @@ The same roles as the role family pages, grouped here by city. Roles located in 
 | --- | --- | --- | --- | --- | --- |
 | [UST](https://www.asaitech.in/companies/ust-jobs?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Lead I - Data Engineering_Scala, PySpark, AWS](https://www.asaitech.in/jobs/usource_68842/lead-i-data-engineering-scala-pyspark-aws?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Apply](https://usource.ripplehire.com/candidate/?token=xHQWoFn4C242POo7xMpH&source=CAREERSITE#detail/job/68842) | Thiruvananthapuram |  | 2026-11-25 |
 | [UST](https://www.asaitech.in/companies/ust-jobs?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Lead I - Data Engineering :: Production Support-Snowflake-Databricks](https://www.asaitech.in/jobs/usource_68530/lead-i-data-engineering?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Apply](https://usource.ripplehire.com/candidate/?token=xHQWoFn4C242POo7xMpH&source=CAREERSITE#detail/job/68530) | Thiruvananthapuram |  | 2026-11-19 |
-| [UST](https://www.asaitech.in/companies/ust-jobs?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Lead II - Data Engineering](https://www.asaitech.in/jobs/usource_68414/lead-ii-data-engineering?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Apply](https://usource.ripplehire.com/candidate/?token=xHQWoFn4C242POo7xMpH&source=CAREERSITE#detail/job/68414) | Thiruvananthapuram |  | 2026-11-18 |
 
 ### Machine Learning and AI
 
@@ -100,6 +104,5 @@ The same roles as the role family pages, grouped here by city. Roles located in 
 
 | Company | Role | Apply | Location | Years asked | First posted |
 | --- | --- | --- | --- | --- | --- |
-| [Quest Global](https://www.asaitech.in/companies/quest-global-jobs?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Verification Engineer (Manual & Automation) - SE](https://www.asaitech.in/jobs/careers-quest-global-com_P-124892/verification-engineer-manual-automation-se?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Apply](https://careers.quest-global.com/global/en/job/QGRQGAGLOBALP124892EXTERNALENGLOBAL/Verification-Engineer-Manual-Automation-SE) | Thiruvananthapuram | 2+ | 2026-11-25 |
 | [UST](https://www.asaitech.in/companies/ust-jobs?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Lead I - Software Testing - ServiceNow Integration Testing](https://www.asaitech.in/jobs/usource_68604/lead-i-software-testing-servicenow-integration-testing?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Apply](https://usource.ripplehire.com/candidate/?token=xHQWoFn4C242POo7xMpH&source=CAREERSITE#detail/job/68604) | Thiruvananthapuram |  | 2026-11-23 |
 | [UST](https://www.asaitech.in/companies/ust-jobs?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Architect I - Software Testing (AI & Data Architect)](https://www.asaitech.in/jobs/usource_68492/architect-i-software-testing-ai-data-architect?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Apply](https://usource.ripplehire.com/candidate/?token=xHQWoFn4C242POo7xMpH&source=CAREERSITE#detail/job/68492) | Thiruvananthapuram |  | 2026-11-19 |
