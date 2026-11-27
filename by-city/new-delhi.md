@@ -7,7 +7,7 @@ The same roles as the role family pages, grouped here by city. Roles located in 
 - First posted is the date the role first went up. A role that closed and came back says reopened, with both dates.
 - At most 5 roles per company in each role family and list.
 - Click a role to read it on ASAI: what the post asks for, when it first went up, how often it came back, and who to ask for a referral there. **Apply** goes straight to the company.
-- Generated 2026-11-27 06:35 UTC (2026-11-27 12:05 IST). Roles that close are removed at each run.
+- Generated 2026-11-27 10:07 UTC (2026-11-27 15:37 IST). Roles that close are removed at each run.
 - Years asked is shown only when the post states it. Pay is not shown.
 - Want this list matched to your own resume? Upload it at [asaitech.in](https://www.asaitech.in/?utm_source=github&utm_medium=list&utm_campaign=by-city).
 
@@ -33,6 +33,7 @@ The same roles as the role family pages, grouped here by city. Roles located in 
 | Company | Role | Apply | Location | Years asked | First posted |
 | --- | --- | --- | --- | --- | --- |
 | [athenainfonomics](https://www.asaitech.in/companies/athenainfonomics-jobs?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Lead Engineer- Full-Stack & Applied AI](https://www.asaitech.in/jobs/athenainfonomics_171733/lead-engineer-full-stack-applied-ai?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Apply](https://athenainfonomics.keka.com/careers/jobdetails/171733) | New Delhi | 8+ | 2026-11-26 |
+| Synthlane | [Full Stack Lead](https://www.asaitech.in/jobs/193311000001908018/full-stack-lead?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Apply](https://synthlane.zohorecruit.in/jobs/Careers/193311000001908018) | New Delhi | 4+ | 2026-11-26 |
 | [ONDC](https://www.asaitech.in/companies/ondc-jobs?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Software Engineer](https://www.asaitech.in/jobs/143411000001570329/software-engineer?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Apply](https://ondc.zohorecruit.in/jobs/Careers/143411000001570329) | New Delhi | 4+ | 2026-11-25 |
 
 ### Mobile Engineering
@@ -53,6 +54,7 @@ The same roles as the role family pages, grouped here by city. Roles located in 
 
 | Company | Role | Apply | Location | Years asked | First posted |
 | --- | --- | --- | --- | --- | --- |
+| [athenainfonomics](https://www.asaitech.in/companies/athenainfonomics-jobs?utm_source=github&utm_medium=list&utm_campaign=by-city) | [AI/ML Engineer](https://www.asaitech.in/jobs/athenainfonomics_171917/ai-ml-engineer?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Apply](https://athenainfonomics.keka.com/careers/jobdetails/171917) | New Delhi | 4+ | 2026-11-27 |
 | [R Systems](https://www.asaitech.in/companies/r-systems-jobs?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Agentic Full-Stack AI Architect](https://www.asaitech.in/jobs/rsystems_1215754/agentic-full-stack-ai-architect?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Apply](https://careers.rsystems.com/rsystems/jobview/principal-full-stack-ontology-agentic-ai-architect-new-delhi-delhi-india-2026112501391311) | New Delhi | 12+ | 2026-11-25 |
 | International SOS | [Senior Manager, AI Governance & Security Lead](https://www.asaitech.in/jobs/careers-internationalsos-com_1448242200/senior-manager-ai-governance-security-lead?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Apply](https://careers.internationalsos.com/job/Delhi-Senior-Manager%2C-AI-Governance-&-Security-Lead-122018/1448242200/) | New Delhi | 8+ | 2026-11-05 (reopened 2026-11-14) |
 
@@ -68,6 +70,7 @@ The same roles as the role family pages, grouped here by city. Roles located in 
 
 | Company | Role | Apply | Location | Years asked | First posted |
 | --- | --- | --- | --- | --- | --- |
+| [3i Infotech](https://www.asaitech.in/companies/3i-infotech-jobs?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Network & Cyber Security Specialist](https://www.asaitech.in/jobs/3icareers_3I_N-CSS_1934167/network-cyber-security-specialist?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Apply](https://3icareers.peoplestrong.com/job/detail/3I_N-CSS_1934167) | New Delhi |  | 2026-11-27 |
 | [ONDC](https://www.asaitech.in/companies/ondc-jobs?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Information Security Officer](https://www.asaitech.in/jobs/143411000001570330/information-security-officer?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Apply](https://ondc.zohorecruit.in/jobs/Careers/143411000001570330) | New Delhi | 12+ | 2026-11-21 |
 | Allica Bank | [Security Engineer - Identity and Access Management (IAM)](https://www.asaitech.in/jobs/71bff72a-8142-4fe4-a324-0bfa819d49c2/security-engineer-identity-and-access-management-iam?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Apply](https://jobs.ashbyhq.com/allica-bank/71bff72a-8142-4fe4-a324-0bfa819d49c2) | New Delhi |  | 2026-11-18 |
 | [Globals](https://www.asaitech.in/companies/globals-jobs?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Information Security / Cyber Intelligence Analyst](https://www.asaitech.in/jobs/140088000004019349/information-security-cyber-intelligence-analyst?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Apply](https://globals.zohorecruit.in/jobs/Careers/140088000004019349) | New Delhi | 4+ | 2026-11-18 |
