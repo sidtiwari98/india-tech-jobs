@@ -7,7 +7,7 @@ The same roles as the role family pages, grouped here by city. Roles located in 
 - First posted is the date the role first went up. A role that closed and came back says reopened, with both dates.
 - At most 5 roles per company in each role family and list.
 - Click a role to read it on ASAI: what the post asks for, when it first went up, how often it came back, and who to ask for a referral there. **Apply** goes straight to the company.
-- Generated 2026-11-27 10:07 UTC (2026-11-27 15:37 IST). Roles that close are removed at each run.
+- Generated 2026-11-28 03:43 UTC (2026-11-28 09:13 IST). Roles that close are removed at each run.
 - Years asked is shown only when the post states it. Pay is not shown.
 - Want this list matched to your own resume? Upload it at [asaitech.in](https://www.asaitech.in/?utm_source=github&utm_medium=list&utm_campaign=by-city).
 
@@ -46,9 +46,9 @@ The same roles as the role family pages, grouped here by city. Roles located in 
 
 | Company | Role | Apply | Location | Years asked | First posted |
 | --- | --- | --- | --- | --- | --- |
+| [SITA](https://www.asaitech.in/companies/sita-jobs?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Lead Data Architect](https://www.asaitech.in/jobs/sita_11913/lead-data-architect?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Apply](https://careers.sita.aero/careers-home/jobs/11913) | New Delhi | 12+ | 2026-11-27 |
 | [Genpact](https://www.asaitech.in/companies/genpact-jobs?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Sr. Data Engineer 4B](https://www.asaitech.in/jobs/dfd932f59eaf100baabeec001f140000/sr-data-engineer-4b?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Apply](https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-GF-12APrakashdeep-Building--New-Delhi/Sr-Data-Engineer-4B_JR10037195) | New Delhi |  | 2026-11-24 |
 | [NTT DATA, Inc.](https://www.asaitech.in/companies/ntt-data-inc-jobs?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Data Engineer - Offshore](https://www.asaitech.in/jobs/careers-inc-nttdata-com_1452480600/data-engineer-offshore?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Apply](https://careers-inc.nttdata.com/job/Delhi-Data-Engineer-Offshore-DL/1452480600/) | New Delhi |  | 2026-11-20 |
-| [AgileEngine](https://www.asaitech.in/companies/agileengine-jobs?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Data Engineer ID89384](https://www.asaitech.in/jobs/248544000265200479/data-engineer-id89384?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Apply](https://agileengine.zohorecruit.com/jobs/Careers/248544000265200479) | New Delhi | 5+ | 2026-11-10 (reopened 2026-11-20) |
 
 ### Machine Learning and AI
 
@@ -62,7 +62,6 @@ The same roles as the role family pages, grouped here by city. Roles located in 
 
 | Company | Role | Apply | Location | Years asked | First posted |
 | --- | --- | --- | --- | --- | --- |
-| [Sun King](https://www.asaitech.in/companies/sun-king-jobs?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Software Engineer - Infrastructure (L2)](https://www.asaitech.in/jobs/sunking_626740/software-engineer-infrastructure?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Apply](https://sunking.pinpointhq.com/en/postings/6faf0dc5-5281-44ae-8e18-fb2ec50b76e9) | New Delhi |  | 2026-11-26 |
 | [Globals](https://www.asaitech.in/companies/globals-jobs?utm_source=github&utm_medium=list&utm_campaign=by-city) | [DevOps Engineer – Infrastructure](https://www.asaitech.in/jobs/140088000004019378/devops-engineer-infrastructure?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Apply](https://globals.zohorecruit.in/jobs/Careers/140088000004019378) | New Delhi | 4+ | 2026-11-18 |
 | [AgileEngine](https://www.asaitech.in/companies/agileengine-jobs?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Senior Salesforce Data Cloud Engineer ID102090](https://www.asaitech.in/jobs/248544000265755079/senior-salesforce-data-cloud-engineer-id102090?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Apply](https://agileengine.zohorecruit.com/jobs/Careers/248544000265755079) | New Delhi | 5+ | 2026-11-19 (reopened 2026-11-26) |
 
@@ -84,6 +83,8 @@ The same roles as the role family pages, grouped here by city. Roles located in 
 
 | Company | Role | Apply | Location | Years asked | First posted |
 | --- | --- | --- | --- | --- | --- |
+| [SITA](https://www.asaitech.in/companies/sita-jobs?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Lead Test Engineer](https://www.asaitech.in/jobs/sita_11912/lead-test-engineer?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Apply](https://careers.sita.aero/careers-home/jobs/11912) | New Delhi | 8+ | 2026-11-27 |
+| [Deloitte](https://www.asaitech.in/companies/deloitte-jobs?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Senior Consultant \| SAP Testing \| Delhi \| SAP \| DSA Consumer & TMT - & Experience](https://www.asaitech.in/jobs/southasiacareers-deloitte-com_61904144/senior-consultant-sap-testing-delhi-sap-dsa-consumer-tmt-experience?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Apply](https://southasiacareers.deloitte.com/job/Delhi-Senior-Consultant-SAP-Testing-Delhi-SAP-DSA-Consumer-&-TMT/61904144/) | New Delhi | 6+ | 2026-11-27 |
 | [Sun King](https://www.asaitech.in/companies/sun-king-jobs?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Supplier Quality Engineer](https://www.asaitech.in/jobs/sunking_626781/supplier-quality-engineer?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Apply](https://sunking.pinpointhq.com/en/postings/ea84fa5f-07df-4edc-9d39-02f7fd0c7226) | New Delhi |  | 2026-11-26 |
 | [Datamatics Technologies](https://www.asaitech.in/companies/datamatics-technologies-jobs?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Data Quality Engineer](https://www.asaitech.in/jobs/datamaticstechnologies_jJOaZLPqjm/data-quality-engineer?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Apply](https://datamaticstechnologies.applytojob.com/apply/jJOaZLPqjm/Data-Quality-Engineer) | New Delhi | 4+ | 2026-11-17 |
 | [AMETEK](https://www.asaitech.in/companies/ametek-jobs?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Senior Supplier Quality Engineer](https://www.asaitech.in/jobs/jobs-ametek-com_1433137500/senior-supplier-quality-engineer?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Apply](https://jobs.ametek.com/job/New-Delhi-Senior-Supplier-Quality-Engineer-DL-110008/1433137500/) | New Delhi |  | 2026-09-23 (reopened 2026-11-14) |

@@ -7,7 +7,7 @@ The same roles as the role family pages, grouped here by city. Roles located in 
 - First posted is the date the role first went up. A role that closed and came back says reopened, with both dates.
 - At most 5 roles per company in each role family and list.
 - Click a role to read it on ASAI: what the post asks for, when it first went up, how often it came back, and who to ask for a referral there. **Apply** goes straight to the company.
-- Generated 2026-11-27 10:07 UTC (2026-11-27 15:37 IST). Roles that close are removed at each run.
+- Generated 2026-11-28 03:43 UTC (2026-11-28 09:13 IST). Roles that close are removed at each run.
 - Years asked is shown only when the post states it. Pay is not shown.
 - Want this list matched to your own resume? Upload it at [asaitech.in](https://www.asaitech.in/?utm_source=github&utm_medium=list&utm_campaign=by-city).
 
@@ -51,11 +51,19 @@ The same roles as the role family pages, grouped here by city. Roles located in 
 | [Quest Global](https://www.asaitech.in/companies/quest-global-jobs?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Data Engineer : Technical Knowledge Platform](https://www.asaitech.in/jobs/careers-quest-global-com_P-124516/data-engineer-technical-knowledge-platform?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Apply](https://careers.quest-global.com/global/en/job/QGRQGAGLOBALP124516EXTERNALENGLOBAL/Data-Engineer-Technical-Knowledge-Platform) | Thiruvananthapuram |  | 2026-11-25 |
 | [UST](https://www.asaitech.in/companies/ust-jobs?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Associate III - Data Engineering_ETL SSIS](https://www.asaitech.in/jobs/usource_68684/associate-iii-data-engineering-etl-ssis?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Apply](https://usource.ripplehire.com/candidate/?token=xHQWoFn4C242POo7xMpH&source=CAREERSITE#detail/job/68684) | Thiruvananthapuram | 5+ | 2026-11-23 |
 
+### Machine Learning and AI
+
+| Company | Role | Apply | Location | Years asked | First posted |
+| --- | --- | --- | --- | --- | --- |
+| [UST](https://www.asaitech.in/companies/ust-jobs?utm_source=github&utm_medium=list&utm_campaign=by-city) | [AI Reliability Engineer (SRE/DevOps) --ML Engineer I](https://www.asaitech.in/jobs/usource_68756/ai-reliability-engineer-sre-devops-ml-engineer-i?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Apply](https://usource.ripplehire.com/candidate/?token=xHQWoFn4C242POo7xMpH&source=CAREERSITE#detail/job/68756) | Thiruvananthapuram | 4+ | 2026-11-24 |
+
 ### DevOps and Cloud Engineering
 
 | Company | Role | Apply | Location | Years asked | First posted |
 | --- | --- | --- | --- | --- | --- |
+| [guidehouse](https://www.asaitech.in/companies/guidehouse-jobs?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Infrastructure Engineer - DevOps](https://www.asaitech.in/jobs/a9ed8f51d5671001e818d27eb9b10000/infrastructure-engineer-devops?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Apply](https://guidehouse.wd1.myworkdayjobs.com/External/job/IN---Trivandrum/Infrastructure-Engineer---DevOps_46855) | Thiruvananthapuram | 4+ | 2026-11-27 |
 | [EY](https://www.asaitech.in/companies/ey-jobs?utm_source=github&utm_medium=list&utm_campaign=by-city) | [TechOps-CloudOps-Data Governance and Data Modelling Support Manager](https://www.asaitech.in/jobs/careers-ey-com_1460948233/techops-cloudops-data-governance-and-data-modelling-support-manager?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Apply](https://careers.ey.com/ey/job/Trivandrum-TechOps-CloudOps-Data-Governance-and-Data-Modelling-Support-Manager-KL-695581/1460948233/) | Thiruvananthapuram | 10+ | 2026-11-26 |
+| Trenser | [Lead / Senior DevOps Engineer](https://www.asaitech.in/jobs/trenser_144707/lead-senior-devops-engineer?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Apply](https://trenser.keka.com/careers/jobdetails/144707) | Thiruvananthapuram | 6+ | 2026-11-17 |
 | [Allianz](https://www.asaitech.in/companies/allianz-jobs?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Specialist-Workplace Services_DevOps Engineer_3508](https://www.asaitech.in/jobs/careers-allianz-com_108934/specialist-workplace-services-devops-engineer-3508?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Apply](https://careers.allianz.com/global/en/job/AISAIPGB108934EXTERNALENGLOBAL/Specialist-Workplace-Services-DevOps-Engineer-3508) | Thiruvananthapuram | 5+ | 2026-10-27 (reopened 2026-11-16) |
 
 ### Quality Engineering
@@ -84,6 +92,7 @@ The same roles as the role family pages, grouped here by city. Roles located in 
 
 | Company | Role | Apply | Location | Years asked | First posted |
 | --- | --- | --- | --- | --- | --- |
+| [AgileEngine](https://www.asaitech.in/companies/agileengine-jobs?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Data Engineer ID89384](https://www.asaitech.in/jobs/248544000266268759/data-engineer-id89384?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Apply](https://agileengine.zohorecruit.com/jobs/Careers/248544000266268759) | Thiruvananthapuram | 2+ | 2026-11-27 |
 | [UST](https://www.asaitech.in/companies/ust-jobs?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Lead I - Data Engineering_Scala, PySpark, AWS](https://www.asaitech.in/jobs/usource_68842/lead-i-data-engineering-scala-pyspark-aws?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Apply](https://usource.ripplehire.com/candidate/?token=xHQWoFn4C242POo7xMpH&source=CAREERSITE#detail/job/68842) | Thiruvananthapuram |  | 2026-11-25 |
 | [UST](https://www.asaitech.in/companies/ust-jobs?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Lead I - Data Engineering :: Production Support-Snowflake-Databricks](https://www.asaitech.in/jobs/usource_68530/lead-i-data-engineering?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Apply](https://usource.ripplehire.com/candidate/?token=xHQWoFn4C242POo7xMpH&source=CAREERSITE#detail/job/68530) | Thiruvananthapuram |  | 2026-11-19 |
 
@@ -99,6 +108,12 @@ The same roles as the role family pages, grouped here by city. Roles located in 
 | Company | Role | Apply | Location | Years asked | First posted |
 | --- | --- | --- | --- | --- | --- |
 | [UST](https://www.asaitech.in/companies/ust-jobs?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Lead I - DevOps Engineering - SRE DevOps/Platform Engineer](https://www.asaitech.in/jobs/usource_68531/lead-i-devops-engineering?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Apply](https://usource.ripplehire.com/candidate/?token=xHQWoFn4C242POo7xMpH&source=CAREERSITE#detail/job/68531) | Thiruvananthapuram |  | 2026-11-19 |
+
+### Security Engineering
+
+| Company | Role | Apply | Location | Years asked | First posted |
+| --- | --- | --- | --- | --- | --- |
+| [UST](https://www.asaitech.in/companies/ust-jobs?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Analyst I - Information Security(WAF)](https://www.asaitech.in/jobs/usource_68867/analyst-i-information-security?utm_source=github&utm_medium=list&utm_campaign=by-city) | [Apply](https://usource.ripplehire.com/candidate/?token=xHQWoFn4C242POo7xMpH&source=CAREERSITE#detail/job/68867) | Thiruvananthapuram |  | 2026-11-26 |
 
 ### Quality Engineering
 
